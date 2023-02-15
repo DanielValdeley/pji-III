@@ -1,0 +1,168 @@
+\documentclass{acm_proc_article-sp}
+
+\usepackage{graphicx,url}
+\usepackage[brazil,english]{babel}   
+\usepackage[utf8]{inputenc}
+\usepackage{paralist}
+
+\newcommand{\fig}[4][htb]{
+  \begin{figure}[#1]
+    {\centering{\includegraphics[#4]{fig/#2}}\par}
+    \caption{#3}
+    \label{fig:#2}
+  \end{figure}
+}
+
+\newcommand{\figtwo}[8]{
+\begin{figure}[h]
+	\centering
+	\begin{subfigure}{#8}
+		\centering
+		\includegraphics[#3]{fig/#1}
+	\end{subfigure}%
+	\begin{subfigure}{#8}
+		\centering
+		\includegraphics[#6]{fig/#4}
+	\end{subfigure}
+\end{figure}
+}
+
+\newcommand{\tab}[4][h]{
+  \begin{table}[h]
+    {\centering\footnotesize\textsf{\input{fig/#2.tab}}\par}
+    \caption{#3}
+    \label{tab:#2}
+  \end{table}
+}
+
+\begin{document}
+
+\title{Título do Projeto}
+\subtitle{\vspace{-2ex} -- Proposta de Projeto --\\
+Instituto Federal de Santa Catarina campus São José\\
+Projeto Integrador II - Engenharia de Telecomunicações}
+
+\numberofauthors{2}
+
+\author{
+\alignauthor
+Autor01, Autor02, Autor03, Autor04\\
+\email{email do lider do projeto (apenas um membro do grupo gerenciando comunicações)}
+}
+
+\maketitle
+
+\begin{abstract}
+Resumo descrevendo os objetivos principais e o impacto do projeto.
+\end{abstract}
+
+
+\section{Desafio}
+
+Descreva o principal problema que o projeto tentará resolver.
+Em geral, tente responder à pergunta: o que este projeto está resolvendo?
+Não esqueça de explicar porque solucionar este problem é importante!
+
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+
+\section{Solução Proposta}
+
+Esta sessão deve descrever como você planeja resolver o problema apresentado na sessão anterior.
+É uma ótima idéia usar alguma figura ou diagrama para apresentar a solução proposta.
+
+\fig{cat}{A skeptical cat...}{width=0.8\columnwidth}
+
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+
+\section{Principais Tecnologias}
+
+Dê uma visão geral sobre a(s) principal(is) tecnologia(s) envolvida(s) na solução do projeto.
+Quais são os principais conhecimentos que você precisará empregar nesta solução (redes, sistemas operacionais, comunicação, etc)?
+Brevemente, descreva as tecnologias e conhecimentos apontando seu papel no projeto.
+
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+
+\section{Riscos}
+
+O que pode dar errado no seu projeto?
+Qual é a probabilidade de que estes problemas realmente ocorram?
+O que pode ser feito para reduzir estes riscos?
+
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+Bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla.
+
+\section{Orçamento}
+
+Quais equipamentos/materiais vocês precisarão para executar seu projeto?
+Quanto isto vai custar?
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{l|c|r}
+Item & Qtd & Preço (R\$) \\
+\hline
+Arduino & 5 & 250.00 \\
+Drone   & 1 & 2000.00 \\
+Fios    & 1 & 20.00 \\
+\hline
+\multicolumn{2}{r}{Total} & 2270.00
+\end{tabular}
+\label{tab:my_label}
+\end{table}
+
+
+\section{Cronograma}
+
+Quanto tempo o projeto vai levar?
+Quais são as principais datas e o que será entregue em cada data?
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{l|c|r}
+Atividade & Inicio & Fim (R\$) \\
+\hline
+Projeto & 14/fev & 04/jul \\
+\hline
+Concepção do projeto & 14/fev & 05/mar \\
+Detalhamento do projeto & 07/mar & 04/abr \\
+Aquisição e Testes de equipamentos & 07/mar & 04/abr \\
+Atividade X & ?? & ?? \\
+Atividade Y & ?? & ?? \\
+Atividade Z & ?? & ?? \\
+\end{tabular}
+\label{tab:my_label}
+\end{table}
+
+
+\end{document}
