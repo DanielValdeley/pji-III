@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2022.10.19)  15 FEB 2023 16:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2022.10.19)  15 FEB 2023 17:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/aluno/pji-III/modelo-sumario_xecutivo/main.tex
-(/home/aluno/pji-III/modelo-sumario_xecutivo/main.tex
+**/home/aluno/pji3/pji-III/modelo-sumario_xecutivo/main.tex
+(/home/aluno/pji3/pji-III/modelo-sumario_xecutivo/main.tex
 LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-01-09> xparse <2020-03-03> (/home/aluno/pji-III/modelo-sumario_xecutivo/acm_proc_article-sp.cls (/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+L3 programming layer <2021-01-09> xparse <2020-03-03> (/home/aluno/pji3/pji-III/modelo-sumario_xecutivo/acm_proc_article-sp.cls (/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
 Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
  (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
@@ -203,7 +203,7 @@ File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
 File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count274
 \l__pdf_internal_box=\box51
-) (/home/aluno/pji-III/modelo-sumario_xecutivo/main.aux
+) (/home/aluno/pji3/pji-III/modelo-sumario_xecutivo/main.aux
 
 LaTeX Warning: Label `tab:my_label' multiply defined.
 
@@ -258,33 +258,33 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 <fig/cat.jpg, id=1, 602.25pt x 582.175pt>
 File: fig/cat.jpg Graphic file (type jpg)
 <use fig/cat.jpg>
-Package pdftex.def Info: fig/cat.jpg  used on input line 83.
+Package pdftex.def Info: fig/cat.jpg  used on input line 71.
 (pdftex.def)             Requested size: 206.40079pt x 199.5181pt.
 
-Overfull \hbox (12.45366pt too wide) in paragraph at lines 97--100
+Overfull \hbox (12.45366pt too wide) in paragraph at lines 85--88
 \T1/aer/m/n/9 Dê uma visão geral so-bre a(s) prin-ci-pal(is) tec-nolo-gia(s) en-volvida(s)
  []
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
- </home/aluno/pji-III/modelo-sumario_xecutivo/fig/cat.jpg>] [2
+ </home/aluno/pji3/pji-III/modelo-sumario_xecutivo/fig/cat.jpg>] [2
 
-] (/home/aluno/pji-III/modelo-sumario_xecutivo/main.aux)
+] (/home/aluno/pji3/pji-III/modelo-sumario_xecutivo/main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
  3796 strings out of 481159
- 50158 string characters out of 5913524
- 353226 words of memory out of 5000000
+ 50213 string characters out of 5913524
+ 352226 words of memory out of 5000000
  20681 multiletter control sequences out of 15000+600000
  447512 words of font info for 77 fonts, out of 8000000 for 9000
  61 hyphenation exceptions out of 8191
- 98i,10n,102p,833b,240s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 98i,10n,102p,838b,240s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmb10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
-Output written on /home/aluno/pji-III/modelo-sumario_xecutivo/main.pdf (2 pages, 131200 bytes).
+Output written on /home/aluno/pji3/pji-III/modelo-sumario_xecutivo/main.pdf (2 pages, 130762 bytes).
 PDF statistics:
  37 PDF objects out of 1000 (max. 8388607)
  25 compressed objects within 1 object stream
