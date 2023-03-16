@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.4.17)  16 FEB 2023 23:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.4.17)  15 MAR 2023 23:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/vmarques/pji-III/modelo-sumario_xecutivo/main.tex
-(/home/vmarques/pji-III/modelo-sumario_xecutivo/main.tex
+**/home/vmarques/pji-III/modelo-sumario-executivo/main.tex
+(/home/vmarques/pji-III/modelo-sumario-executivo/main.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (./acm_proc_article-sp.cls (/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
@@ -590,8 +590,8 @@ File: fig/zigbee.jpg Graphic file (type jpg)
 Package pdftex.def Info: fig/zigbee.jpg  used on input line 77.
 (pdftex.def)             Requested size: 206.40079pt x 106.15993pt.
 
-/home/vmarques/pji-III/modelo-sumario_xecutivo/main.tex:105: Undefined control sequence.
-l.105 \ABNTEXfontereduzida
+/home/vmarques/pji-III/modelo-sumario-executivo/main.tex:104: Undefined control sequence.
+l.104 \ABNTEXfontereduzida
                           
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -599,8 +599,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/vmarques/pji-III/modelo-sumario_xecutivo/main.tex:127: Undefined control sequence.
-l.127 \fonteproprioautor
+/home/vmarques/pji-III/modelo-sumario-executivo/main.tex:126: Undefined control sequence.
+l.126 \fonteproprioautor
                         
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -618,14 +618,14 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
  ) 
 Here is how much of TeX's memory you used:
  3794 strings out of 492982
- 47234 string characters out of 6134896
+ 47237 string characters out of 6134896
  121979 words of memory out of 5000000
  7247 multiletter control sequences out of 15000+600000
  47315 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,10n,28p,836b,244s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,10n,28p,837b,244s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
-Output written on outlatexdir/main.pdf (1 page, 214589 bytes).
+Output written on outlatexdir/main.pdf (1 page, 214525 bytes).
 PDF statistics:
  34 PDF objects out of 1000 (max. 8388607)
  23 compressed objects within 1 object stream
