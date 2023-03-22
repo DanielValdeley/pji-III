@@ -1,8 +1,9 @@
-# pji-III
-Projeto Integrador III
+# Projeto Integrador III
 
-[Sumário Executivo](/modelo-sumario-executivo/outlatexdir/main.pdf)
+## Sistema de Monitoramento e Alertas Emergenciais para Idosos
 
-[Pitch](/pitch/Pitch%20PJI3.pdf)
+- [Sumário Executivo](/modelo-sumario-executivo/outlatexdir/main.pdf)
 
-[Plano de trabalho](/plano-de-trabalho/modelo-PT.docx.pdf)
+- [Pitch](/pitch/Pitch%20PJI3.pdf)
+
+- [Plano de trabalho](/plano-de-trabalho/modelo-PT.docx.pdf)
