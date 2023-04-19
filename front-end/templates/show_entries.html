@@ -1,0 +1,44 @@
+{% extends "layout.html" %}
+{% block body %}
+  {% if session.logged_in %}
+    <form action="{{ url_for('add_entry') }}" method=post class=add-entry>
+      <dl>
+      <dt>Title:
+      <dd><input type=text size=20 name=title required placeholder="Name"></dd>
+      <dt>Username:
+      <dd><input type=text size=20 name=username pattern="\d{0,}" placeholder="Number" required></dd>
+      <dt>Password:
+      <dd><input type=password size=20 name=password placeholder="Password"required></dd>
+      <dt>Server:
+      <dd><input type=text size=20 name=server required placeholder="IP or URL"></dd>
+      <dd><input type=submit value=Insert></dd>	
+      </dl>
+    </form>
+  {% endif %}
+{% if entries %}
+<table id="entries_table">
+  <thead>
+    <td>Title</td><td>Username</td><td>Server</td><td></td>
+  </thead>
+  <tbody>
+  {% for entry in entries %}
+  <tr>
+    <td> {{entry[1]}} </td>
+    <td> {{entry[2]}} </td>
+    <td> {{entry[3]}} </td>
+    {% if session.logged_in %}
+    <td> <a class = "edit" href = "/edit/{{ entry[0] }}">Edit</a> </td> 
+    <td> <a class = "delete" href = "/delete/{{ entry[0] }}" 
+      onclick="return(window.confirm('Do You wanted to Delete {{ entry[1] }}'));">Delete</a> </td>
+    {% endif %}
+ </tr>
+  {% endfor %}
+</tbody>
+</table>
+{% else %}
+   <ul class="entries">
+    <li><em> Sem registro SIP!!</em>
+  </ul>
+{% endif %}
+
+{% endblock %}

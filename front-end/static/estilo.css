@@ -1,0 +1,181 @@
+html{
+	background-image: linear-gradient(to bottom, #ffffff, #3a7243);
+	height: 100%;
+	;
+}
+
+Body{
+	margin: auto;
+	font-family: Helvetica, sans-serif; 
+	padding: 10px, 200px;
+	text-align: center;
+
+}
+
+#Menu{
+	text-align: center;
+}
+
+
+
+input{
+	border: 1px solid #4d4d4d;
+	border-radius: 5px;
+
+}
+
+#login{
+	text-align: right;
+	margin-right:30px;
+}
+
+#falha{
+	text-align: center;
+}
+#Voltar{
+text-align: left;
+margin-bottom: -20px;
+margin-top: -25px;
+
+}
+
+Body form h4{
+margin: 3px;
+border-top: -15px;
+text-align: center;
+
+}
+
+Body h1{
+color: #4c963d;
+}
+
+input[type=submit]{
+	background: #4c963d;
+	color:  #ffffff;
+	cursor: pointer;
+	padding: 20px, 25px;
+	border: 0;
+	text-align: center;
+}
+
+#warp{
+	border: 1px solid #4c963d;
+	padding: 50px;
+	width: 300px;
+	background: #e6e6e6;
+	display: inline-block;
+	border-radius: 10px;
+	font-size: 20px;
+	text-align: right;
+}
+
+#botao{
+	text-align: center;
+
+}
+
+input{
+	border: 1px solid #4d4d4d;
+	border-radius: 5px;
+
+}
+
+
+
+
+#audio{
+	border: 1px solid #4c963d;
+	padding: 10px;
+	width: 400px;
+	height: 200px;
+	background: #e6e6e6;
+	display: inline-block;
+	border-radius: 10px;
+	font-size: 20px;
+	text-align: center;
+}
+#Volume{
+	text-align: right;
+	margin-right: 15px;
+}
+
+
+input[type=number]::-webkit-inner-spin-button {
+  cursor: pointer;
+  }
+
+
+
+
+
+
+
+#network{
+	border: 1px solid #4c963d;
+	padding: 5px;
+	width: 400px;
+	height: 250px;
+	background: #e6e6e6;
+	display: inline-block;
+	border-radius: 10px;
+	font-size: 20px;
+	text-align: center;
+
+	}
+
+#network1{
+text-align: right;
+
+}
+
+#pass{
+	border: 1px solid #4c963d;
+	padding: 5px;
+	width: 400px;
+	height: 250px;
+	background: #e6e6e6;
+	display: inline-block;
+	border-radius: 10px;
+	font-size: 20px;
+	text-align: center;
+
+	}
+
+#password1{
+    text-align: right;
+	margin-right: 80px;
+}
+
+
+
+
+
+#devicesRegistered{
+	border: 1px solid #4c963d;
+	padding: 5px;
+	width: 420px;
+	background: #e6e6e6;
+	display: inline-block;
+	border-radius: 10px;
+	font-size: 18px;
+	text-align: center;
+
+}
+
+
+#SIP{
+	border: 1px solid #4c963d;
+	padding: 5px;
+	width: 400px;
+	background: #e6e6e6;
+	display: inline-block;
+	border-radius: 10px;
+	font-size: 20px;
+	text-align: center;
+
+}
+#opçãosip {
+	text-align: right;
+	margin-right: 80px;
+
