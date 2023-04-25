@@ -10,7 +10,7 @@
 
 ### Metas
 ----
-### Meta 01 [:heavy_check_mark:](https://github.com/DanielValdeley/pji-III/milestone/1)
+### Meta 01 [:heavy_check_mark:](https://github.com/DanielValdeley/pji-III/milestone/2)
 
   Etapa 01 [:link:](https://github.com/DanielValdeley/pji-III/issues/2)
   - [Descrição do Desenvolvimento do Sensor](/prova-conceito-sensor/Desenvolvimento%20Sensores%20zigbee%20-%20Emergency%20Button.pdf)
@@ -18,3 +18,10 @@
   Etapa 02 [:link:](https://github.com/DanielValdeley/pji-III/issues/3)
   - [Prova de conceito dos sensores](https://github.com/DanielValdeley/pji-III/issues/3)
  ----
+### Meta 02 [](https://github.com/DanielValdeley/pji-III/milestone/1)
+
+  Etapa 03 [:link:](https://github.com/DanielValdeley/pji-III/issues/3)
+  - [Entrega do gateway e integração dos sensores]()
+
+  Etapa 04 [:link:](https://github.com/DanielValdeley/pji-III/issues/4)
+  - [Gateway com sistema operacional embarcado]()
