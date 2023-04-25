@@ -10,7 +10,7 @@
 
 ### Metas
 ----
-#### Meta 01 [:heavy_check_mark:](https://github.com/DanielValdeley/pji-III/milestone/1)
+### Meta 01 [:heavy_check_mark:](https://github.com/DanielValdeley/pji-III/milestone/1)
 
   Etapa 01 [:link:](https://github.com/DanielValdeley/pji-III/issues/2)
   - [Descrição do Desenvolvimento do Sensor](/prova-conceito-sensor/Desenvolvimento%20Sensores%20zigbee%20-%20Emergency%20Button.pdf)
