@@ -1,0 +1,42 @@
+<!doctype html>
+
+<html>
+	<head>
+		<title>Sistema de Monitoramento de Idosos</title>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" type="text/css" href="../static/estilo.css" />
+
+	
+	</head>
+	<body>
+			<div>
+				<h1>Sistema de Monitoramento de Idosos</h1>
+			</div>
+		<form action="" method="post" id="warp" />
+			<div id="login">
+				<label> Login:</label>	<input  type="text" placeholder="Digite o login" name="username"/>
+			
+			</div>
+			<div id="login">
+				<label>Senha:</label> <input  type="password" placeholder="Digite a senha" name="password" />
+            </div> 
+            
+            <div id ="botao">
+                <!--	<button type="button" class="btn btn-success">Enviar</button> -->
+
+				 <input type="submit" value="Enviar"/>
+            </div>
+
+            <div id="login" method="get">
+  {% with messages = get_flashed_messages() %}  
+         {% if messages %}  
+               {% for message in messages %}  
+                    <p>{{ message }}</p>  
+               {% endfor %}  
+         {% endif %}  
+      {% endwith %}  
+            </div>
+
+
+	</body>
+</html>
