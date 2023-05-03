@@ -17,7 +17,7 @@
 
   Etapa 02 [:link:](https://github.com/DanielValdeley/pji-III/issues/3)
   - [Prova de conceito dos sensores](https://github.com/DanielValdeley/pji-III/issues/3)
- ----
+
 ### Meta 02 [](https://github.com/DanielValdeley/pji-III/milestone/2)
 
   Etapa 03 [:link:](https://github.com/DanielValdeley/pji-III/issues/3)
@@ -25,7 +25,8 @@
 
   Etapa 04 [:link:](https://github.com/DanielValdeley/pji-III/issues/4)
   - [Gateway com sistema operacional embarcado]()
-
+  
+ ----
 ### Meta 03 [](https://github.com/DanielValdeley/pji-III/milestone/3)
 
   Etapa 05 [:link:]()
