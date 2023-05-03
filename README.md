@@ -26,12 +26,13 @@
   Etapa 04 [:link:](https://github.com/DanielValdeley/pji-III/issues/4)
   - [Gateway com sistema operacional embarcado]()
   
- ----
+----
 ### Meta 03 [](https://github.com/DanielValdeley/pji-III/milestone/3)
 
-  Etapa 05 [:link:]()
-  - []()
+  Etapa 05 [:link:](https://github.com/DanielValdeley/pji-III/issues/6)
+  - [Entrega softphone SIP embarcado e script](https://github.com/DanielValdeley/pji-III/issues/6)
 
-  Etapa 06 [:link:]()
-  - []()
- ---- 
+  Etapa 06 [:link:](https://github.com/DanielValdeley/pji-III/issues/7)
+  - [Instalação e configuração de um PABX IP (Asterisk)](https://github.com/DanielValdeley/pji-III/issues/7)
+  
+  ---- 
