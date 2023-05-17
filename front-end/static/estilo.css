@@ -1,13 +1,12 @@
 html{
-	background-image: linear-gradient(to bottom, #ffffff, #3a7243);
-	height: 100%;
-	;
+	background: rgb(210,235,204);
+	background: radial-gradient(circle, rgba(210,235,204,1) 0%, rgba(236,255,231,1) 100%); 
 }
 
 Body{
 	margin: auto;
 	font-family: Helvetica, sans-serif; 
-	padding: 10px, 200px;
+	padding: 10px, 200x;
 	text-align: center;
 
 }
@@ -60,10 +59,10 @@ input[type=submit]{
 }
 
 #warp{
-	border: 1px solid #4c963d;
+	border: none;
 	padding: 50px;
 	width: 300px;
-	background: #e6e6e6;
+	background: none;
 	display: inline-block;
 	border-radius: 10px;
 	font-size: 20px;
@@ -114,8 +113,8 @@ input[type=number]::-webkit-inner-spin-button {
 #network{
 	border: 1px solid #4c963d;
 	padding: 5px;
-	width: 400px;
-	height: 250px;
+	width: auto;
+	
 	background: #e6e6e6;
 	display: inline-block;
 	border-radius: 10px;
@@ -167,7 +166,7 @@ text-align: right;
 #SIP{
 	border: 1px solid #4c963d;
 	padding: 5px;
-	width: 400px;
+	width: auto;
 	background: #e6e6e6;
 	display: inline-block;
 	border-radius: 10px;
@@ -179,3 +178,4 @@ text-align: right;
 	text-align: right;
 	margin-right: 80px;
 
+}
