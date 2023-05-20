@@ -84,17 +84,14 @@ input[type=submit]:hover{
 
 .voltar-as-button{
 	appearance: button;
-	background-color: rgb(58, 214, 105);
-	color: #1f1f1f;
+	background: #4c963d;
+	color: #ffffff;
 	padding: 15px 15px;
-
 	transition: 0.3s;
-	position: ;
 	display: inline-block;
-	margin-bottom: 30px;
 	border-radius: 10px;
 	text-decoration: none;
-	box-shadow: 3px 3px 3px #4d4d4d;
+	box-shadow: 0px 0px 0px 0px #4d4d4d;
 
 }
 .voltar-as-button:hover{
