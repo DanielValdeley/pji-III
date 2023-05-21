@@ -69,14 +69,14 @@ input[type=submit]{
 
 
 #warp{
-	border: 1px solid #4c963d;
-	padding: 5px;
-	width: 400px;
-	background: #e6e6e6;
+	border: none;
+	padding: 50px;
+	width: 300px;
+	background: none;
 	display: inline-block;
 	border-radius: 10px;
 	font-size: 20px;
-	text-align: center;
+	text-align: right;
 }
 
 #botao{
