@@ -10,6 +10,8 @@
 
 ### Metas
 ----
+## ENTREGA 01
+
 ### Meta 01 [:heavy_check_mark:](https://github.com/DanielValdeley/pji-III/milestone/2)
 
   Etapa 01 [:link:](https://github.com/DanielValdeley/pji-III/issues/2)
@@ -27,6 +29,7 @@
   - [Gateway com sistema operacional embarcado]()
   
 ----
+## ENTREGA 02
 ### Meta 03 [](https://github.com/DanielValdeley/pji-III/milestone/3)
 
   Etapa 05 [:link:](https://github.com/DanielValdeley/pji-III/issues/6)
