@@ -38,4 +38,8 @@
   Etapa 06 [:link:](https://github.com/DanielValdeley/pji-III/issues/7)
   - [Instalação e configuração de um PABX IP (Asterisk)](https://github.com/DanielValdeley/pji-III/issues/7)
   
-  ---- 
+---- 
+## ENTREGA 03 (FINAL)
+
+### Meta 04 []()
+### Meta 05 []()
