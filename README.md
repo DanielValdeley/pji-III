@@ -32,11 +32,13 @@
 ## ENTREGA 02
 ### Meta 03 [](https://github.com/DanielValdeley/pji-III/milestone/3)
 
-  Etapa 05 [:link:](https://github.com/DanielValdeley/pji-III/issues/6)
+  Etapa 05 e 06 [:link:](https://github.com/DanielValdeley/pji-III/issues/6)
   - [Entrega softphone SIP embarcado e script](https://github.com/DanielValdeley/pji-III/issues/6)
 
-  Etapa 06 [:link:](https://github.com/DanielValdeley/pji-III/issues/7)
+  Etapa 07 e 08 [:link:](https://github.com/DanielValdeley/pji-III/issues/7)
   - [Instalação e configuração de um PABX IP (Asterisk)](https://github.com/DanielValdeley/pji-III/issues/7)
+  
+  Etapa 09 - Adiantamento: Entrega parcial do front (primeira versão)
   
 ---- 
 ## ENTREGA 03 (FINAL)
