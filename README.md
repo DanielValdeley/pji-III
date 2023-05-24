@@ -38,7 +38,8 @@
   Etapa 07 e 08 [:link:](https://github.com/DanielValdeley/pji-III/issues/7)
   - [Instalação e configuração de um PABX IP (Asterisk)](https://github.com/DanielValdeley/pji-III/issues/7)
   
-  Etapa 09 - Adiantamento: Entrega parcial do front (primeira versão)
+  Etapa 09 - Adiantamento
+  - [Entrega parcial do front (primeira versão)](https://github.com/DanielValdeley/pji-III/issues/8)
   
 ---- 
 ## ENTREGA 03 (FINAL)
